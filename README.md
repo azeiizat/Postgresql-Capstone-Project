@@ -1,7 +1,7 @@
 # Postgresql-Capstone-Project
 Capstone project using postgresql 
 
-#Capstone project questions
+# Capstone project questions
 
 From the international breweries data recorded for a duration of three years, you are to do the following analyses to aid better decision making in order to maximize profit and reduce loss to the lowest minimum. 
 
